@@ -1,0 +1,58 @@
+body {
+  background-color: grey;
+}
+
+thead {
+   font-size: 20pt;
+}
+
+tbody {
+        color: white;
+}
+
+tfoot {
+  color:azure ;
+  font-weight:bold;
+}
+
+.iphone .phone::before {
+  content: "🍎";
+}
+
+.android .phone::before {
+  content: "🤖";
+}
+
+table .price::before {
+  content:"💵";
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  border-top: 5px solid black;
+}
+
+.one {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  top: 75vw
+}
+.two {
+height: 10px;
+  width: 10px;
+  background-color: blue;
+}
+
+div {
+  display: inline;
+
+}

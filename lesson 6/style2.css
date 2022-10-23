@@ -1,0 +1,40 @@
+.one {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+  }
+  .two {
+  height: 10px;
+    width: 10px;
+    background-color: blue;
+    display: inline-block;
+  }
+  
+  div {
+    
+  }
+
+  .second {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    margin-bottom: 20px;
+  }
+
+  .third {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    margin-top: 20px;
+  }
+
+
+img {
+    float: right;
+}
+
+.float {
+    width: 500px;
+    hight: 1000px;
+}
